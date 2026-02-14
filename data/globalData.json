@@ -1,77 +1,170 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Cosse & Silmon Orthodontics",
+  "domain": "cosseortho.com",
+  "email": "candace@cosseortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "318-869-1248",
+    "href": "tel:+13188691248",
+    "aria": "3 1 8, 8 6 9, 1 2 4 8"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Shreveport — Carroll St",
       "address": {
-        "street": "9650 Main Street",
+        "street": "230 Carroll St #1",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Shreveport, LA 71105",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "318-392-1173",
+        "href": "tel:+13183921173"
       },
-      "email": "info@mandtortho.com",
+      "email": "candace@cosseortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon - Thu",
+          "time": "8:00am - 5:00pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "8:00am - 12:00pm"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=230+Carroll+St+%231+Shreveport+LA+71105",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Stonewall / Scheduling",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "4974 LA-3276 Suite G",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Stonewall, LA 71078",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "318-869-1248",
+        "href": "tel:+13188691248"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "candace@cosseortho.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00am - 12:00pm"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=4974+LA-3276+Suite+G+Stonewall+LA+71078",
+        "label": "Get Directions"
+      },
+      "special_note": "Primary scheduling/text line"
+    },
+    {
+      "title": "Bossier City",
+      "address": {
+        "street": "4001 Viking Dr Ste B",
+        "suite": "",
+        "city_state": "Bossier City, LA 71111",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "318-392-1173",
+        "href": "tel:+13183921173"
+      },
+      "email": "candace@cosseortho.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00am - 12:00pm"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=4001+Viking+Dr+Ste+B+Bossier+City+LA+71111",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Mansfield",
+      "address": {
+        "street": "126 Jefferson Street",
+        "suite": "",
+        "city_state": "Mansfield, LA 71052",
+        "coordinates": {
+          "longitude": "-93.7092131",
+          "latitude": "32.0370881"
+        }
+      },
+      "phone": {
+        "number": "318-786-1048",
+        "href": "tel:+13187861048"
+      },
+      "email": "candace@cosseortho.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00am - 12:00pm"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=126+Jefferson+Street+Mansfield+LA+71052",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Minden",
+      "address": {
+        "street": "164 Country Club Cir E, Unit A",
+        "suite": "",
+        "city_state": "Minden, LA 71055",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "318-392-1173",
+        "href": "tel:+13183921173"
+      },
+      "email": "candace@cosseortho.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "8:00am - 5:00pm"
+        },
+        {
+          "day": "Fri",
+          "time": "8:00am - 12:00pm"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=164+Country+Club+Cir+E+Unit+A+Minden+LA+71055",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +187,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "230 Carroll St #1, Shreveport, LA 71105",
+        "href": "https://www.google.com/maps/search/?api=1&query=230+Carroll+St+%231+Shreveport+LA+71105",
+        "label": "View 230 Carroll St #1, Shreveport, LA 71105 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "318-869-1248",
+        "href": "tel:+13188691248",
+        "label": "Call 3 1 8. 8 6 9. 1 2 4 8.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "COVID-19 Update",
+      "text": "We continue to follow enhanced safety protocols to protect patients and staff. If you have questions about in-office safety or appointment procedures, please contact us.",
+      "mobile_text": "COVID-19 Update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID-19 Update",
+        "text": "<p>We follow CDC and state guidance and maintain enhanced infection control measures. If you have symptoms or recent exposure, please call us to reschedule. For routine questions about your visit, reach out to our scheduling team at 318-869-1248 or candace@cosseortho.com.</p>"
       }
     }
   },
@@ -132,7 +225,7 @@
           "path": "/contact",
           "hash": "#form",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -150,7 +243,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/CosseandSilmonOrthodontics/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/explore/locations/1306884279377123/cosse-and-silmon-orthodontics/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCyOiMn6z0sm3sCld2KC5c8g",
         "icon": "youtube"
       }
     ],
@@ -158,12 +259,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Cosse & Silmon Orthodontics",
+    "text": "Schedule a complimentary consultation and meet our team dedicated to thoughtful, health-first orthodontic care.",
     "image": {
-      "src": "",
+      "src": "https://www.cosseortho.com/wp-content/uploads/2024/10/CosseSilmon-Ortho-Logo.png",
       "webp": "",
-      "alt": "",
+      "alt": "Cosse & Silmon Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +272,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Contact Hero"
+      }
     }
   }
 }
